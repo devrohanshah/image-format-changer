@@ -1,0 +1,57 @@
+    body {
+        font-family:sans-serif;
+        background-image: url(../images/bg.png);
+        background-repeat: no-repeat;
+    }
+    .container {
+        max-width: 600px;
+        margin: 50px auto;
+        text-align: center;
+    }
+    #output-image {
+        max-width: 100%;
+        margin-top: 20px;
+    }
+
+    h1{
+        color: #fc0808;
+        font-family: cursive;
+    }
+    input{
+        padding: 10px;
+        margin: 10px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        font-family: cursive;
+    }
+
+    select{
+        padding: 10px;
+        margin: 10px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        font-family: cursive;
+    }
+
+    button{
+        padding: 10px;
+        margin: 10px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        font-family: cursive;
+        background-color: #fc0808;
+        color: white;
+    }
+    
+    a{
+        text-decoration: none;
+        color: #fc0808;
+        font-family: cursive;
+    }
+    a:hover{
+        text-decoration: underline;
+    }
+
+    img{
+        font-family: cursive;
+    }
